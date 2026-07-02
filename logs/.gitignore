@@ -1,0 +1,3 @@
+# Los logs de instalación se generan en tiempo de ejecución.
+*.log
+!.gitkeep
